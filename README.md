@@ -16,7 +16,7 @@ I enjoy blending clean UI/UX with strong backend logic — and exploring how AI 
 - 🔭 Currently working on: **AI automation tools & full-stack apps**
 - 🌱 Learning: **Advanced Machine Learning & Cloud Deployment**
 - 💬 Ask me about: **Full-stack dev, APIs, AI integrations**
-- ⚡ Fun fact: I break things *just* to build them cleaner 🛠️
+- ⚡ Fun fact: I break things *just* to build them cleaner 
 
 ---
 
