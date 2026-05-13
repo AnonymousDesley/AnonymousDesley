@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer • AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="https://boyema-desley-portfolio.vercel.app/" target="_blank">
+  <a href="https://boyema-desley.vercel.app/" target="_blank">
     🌐 Visit My Personal Website 
   </a>
 </p>
