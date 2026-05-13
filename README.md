@@ -57,7 +57,7 @@ I enjoy blending clean UI/UX with strong backend logic — and exploring how AI 
 ---
 
 ## 🌍 Find Me Online
-- Portfolio: **https://boyema-desley-portfolio.vercel.app/**
+- Portfolio: **https://boyema-desley.vercel.app/**
 - Twitter/X: **https://x.com/softweird237**
 - LinkedIn: **https://cm.linkedin.com/in/boyema-desley-713217344**
 
