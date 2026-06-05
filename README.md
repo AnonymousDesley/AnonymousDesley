@@ -20,7 +20,7 @@ I enjoy blending clean UI/UX with strong backend logic — and exploring how AI 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack..
 
 ### **Languages**
 <p>
