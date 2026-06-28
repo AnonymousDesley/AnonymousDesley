@@ -13,10 +13,10 @@
 I'm a passionate **Full-Stack Developer** and **AI/ML Enthusiast** who loves building smooth, efficient, and scalable digital experiences,  
 I enjoy blending clean UI/UX with strong backend logic — and exploring how AI can power next-gen apps.
 
-- 🔭 Currently working on: **AI automation tools & full-stack apps**.
-- 🌱 Learning: **Advanced Machine Learning & Cloud Deployment** .
-- 💬 Ask me about: **Full-stack dev, APIs, AI integrations** .
-- ⚡ Fun fact: **I break things *just* to build them cleaner**.
+- 🔭 Currently working on: **AI automation tools & full-stack apps**
+- 🌱 Learning: **Advanced Machine Learning & Cloud Deployment** 
+- 💬 Ask me about: **Full-stack dev, APIs, AI integrations** 
+- ⚡ Fun fact: **I break things *just* to build them cleaner**
 
 ---
 
