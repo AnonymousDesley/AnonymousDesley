@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://boyema-desley.vercel.app/" target="_blank">
-    🌐 Visit My Personal Website (Portfolio)
+    🌐 Visit My Personal Website (Portfolio).
   </a>
 </p>
 
