@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://boyema-desley.vercel.app/" target="_blank">
-    🌐 Visit My Personal Website (Portfolio).
+    🌐 Visit My Personal Website (Portfolio)
   </a>
 </p>
 
@@ -20,7 +20,7 @@ I enjoy blending clean UI/UX with strong backend logic — and exploring how AI 
 
 ---
 
-## 🛠️ Tech Stack.
+## 🛠️ Tech Stack
 
 ### **Languages**
 <p>
