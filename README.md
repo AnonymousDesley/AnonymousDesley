@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://boyema-desley.vercel.app/" target="_blank">
-    🌐 Visit My Personal Website (Portfolio)
+    🌐 Visit My Personal Website (Portfolio)))
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me :)
 I'm a passionate **Full-Stack Developer** and **AI/ML Enthusiast** who loves building smooth, efficient, and scalable digital experiences,  
 I enjoy blending clean UI/UX with strong backend logic — and exploring how AI can power next-gen apps;
 
