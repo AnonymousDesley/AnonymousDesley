@@ -64,4 +64,4 @@ I enjoy blending clean UI/UX with strong backend logic — and exploring how AI 
 ---
 
 ### 💡 Thanks for visiting!
-If you like my work, consider starring ⭐ some repos — it helps a lot!
+If you like my work, consider starring ⭐ some of my repos — it helps a lot!
